@@ -1,0 +1,1 @@
+you can delete portable.dll if you want, it does nothing. the error at install.vbs is INTENTIONAL, do not worry about this. i have not labelled this.
